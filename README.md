@@ -1,8 +1,8 @@
-# Discrete Mathematics Notes
+## Discrete Mathematics Notes
 
 Handwritten notes from my undergraduate Discrete Mathematics course.
 
-## Course Information
+### Course Information
 
 - School: School of Computer Science and Technology
 - Major: Internet of Things Engineering
