@@ -10,11 +10,3 @@ Handwritten notes from my undergraduate Discrete Mathematics course.
 - Semester: Year 1 Semester 2
 - Grade: 100
 
-## Contents
-
-- Mathematical Logic
-- Predicate Logic
-- Set Theory
-- Relations
-- Combinatorics
-- Graph Theory
